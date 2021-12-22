@@ -1,0 +1,1 @@
+# rectangle-properties-struct-template
